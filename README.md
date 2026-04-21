@@ -1,4 +1,4 @@
-# Greatglobe-Logistics-Compliance-Assisstant
+# Greatglobe-Logistics-Compliance-Assistant
 
 ## Copyright and Licensing
 © 2026 Srinath Kuruva. All rights reserved.
